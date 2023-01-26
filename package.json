@@ -1,0 +1,17 @@
+{
+  "name": "homeworkstudy",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "homeworkexample.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "UBT",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.4",
+    "node": "^19.4.0",
+    "node-fetch": "^3.3.0"
+  }
+}
